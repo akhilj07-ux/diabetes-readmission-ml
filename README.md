@@ -66,8 +66,5 @@ tests/          basic checks
 **Degree:** MSc Business Analytics, Queen's University Belfast (2023)  
 **Research topic:** Predicting the likelihood of readmission of diabetes patients within 30 days of discharge.
 
-**Original study vs reconstruction:** The original study discusses feature selection (ANOVA/RFE), oversampling (SMOTE), ensemble classifiers and SHAP/LIME. The code surviving from 2023 is exploratory; the code in `src/` was newly reconstructed in 2026, not recovered verbatim. Please cite the original dissertation when describing the academic study.
+**Original study vs reconstruction:** The original study discusses feature selection (ANOVA/RFE), oversampling (SMOTE), ensemble classifiers and SHAP/LIME. The code surviving from 2023 is exploratory; the code in `src/` was newly reconstructed in 2026, not recovered verbatim. 
 
-## Licence
-
-No software licence is granted yet. Confirm the dataset's redistribution terms and the university's policy on publicly sharing submitted dissertations before publishing this repository. Consider omitting the CSV and PDFs until those checks are complete.

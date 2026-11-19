@@ -1,0 +1,9 @@
+{
+  "rows": 25000,
+  "features": 16,
+  "train_rows": 20000,
+  "test_rows": 5000,
+  "seed": 42,
+  "best_model_by_holdout_auc": "CatBoost",
+  "note": "Exploratory benchmark only. Selecting best model on test set biases the reported best-model estimate. No clinical validation."
+}
